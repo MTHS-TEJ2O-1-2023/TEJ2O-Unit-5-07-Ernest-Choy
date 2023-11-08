@@ -5,7 +5,7 @@
  * This program ...
 */
 
-//variables
+// variables
 const servoNumberOne = robotbit.Servos.S1
 
 // setup
